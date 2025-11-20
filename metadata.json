@@ -1,0 +1,7 @@
+{
+  "name": "Guadalajara 2026 Host City Guide",
+  "description": "A comprehensive tourist and attendee guide for the World Cup 2026 in Guadalajara, featuring AI-powered navigation and official government integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
